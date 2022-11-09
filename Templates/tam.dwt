@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Friso</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/main-style.css">
+<script src="../js/bootstrap.bundle.min.js"></script>
+<link rel="icon" type="image/x-icon" href="../images/favicon.png">
+<link rel="stylesheet" href="../css/owl.carousel.css">
+<link rel="stylesheet" href="../css/owl.theme.default.css">
+<link rel="stylesheet" href="../css/all.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm p-3 mb-5 bg-body rounded sticky-top">
+  <div class="container"> <a class="navbar-brand" href="../index.html"><img src="../images/friso-logo.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"> <a class="nav-link active" aria-current="page" href="../index.html">Home</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#">Friso Gold</a> </li>
+		<li class="nav-item"> <a class="nav-link" href="#">Gold Pro</a> </li>
+		<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Formulated Milk</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item text-wrap" href="#">Friso Gold RTD</a></li>
+            <li><a class="dropdown-item text-wrap" href="#">Friso Mums</a></li>
+          </ul>
+        </li>
+		
+		<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Why Friso</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item text-wrap" href="#">How HMO support my baby's development?</a></li>
+            <li><a class="dropdown-item text-wrap" href="#">How is Novas signature milk crafted?</a></li>
+          </ul>
+        </li>
+
+        <li class="nav-item"> <a class="nav-link" href="../about.html" >Who we are</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- TemplateBeginEditable name="Fullwidth" -->
+<main></main>
+<!-- TemplateEndEditable -->
+<footer class="bg-blue text-light">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-md-12 col-lg-6 p-3 mb-4 "> <img src="../images/white-logo.png" alt="">
+        <p class="mt-3"> 2022 FrieslandCampina, all rights reserved.
+		<br>The content of this website, including but not limited to our main brands FRISO® and FRISOLAC® are protected intellectual property of FrieslandCampina.</p>
+      </div>
+      <div class="col-md-12 col-lg-3 p-3 pt-5 mb-4">
+        <h5>Shopping &amp; Categories </h5>
+        <ul class="nav flex-column">
+          <li class="nav-item"><a href="#" class="nav-link">Friso Gold</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Friso Gold Pro</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Friso RTD</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Friso Mum</a></li>
+        </ul>
+      </div>
+      
+      <div class="col-md-12 col-lg-3 p-3 pt-5 mb-4">
+        <h5>Help &amp; Information </h5>
+        <ul class="nav flex-column">
+           <li class="nav-item"><a href="#" class="nav-link">Friso Gold</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Friso Gold Pro</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Friso RTD</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Friso Mum</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+	
+	
+	
+	
+<script src="../js/jquery-3.6.0.min.js"></script>
+<script src="../js/owl.carousel.js"></script>
+<script src="../js/custom.js"></script>
+</body>
+</html>
